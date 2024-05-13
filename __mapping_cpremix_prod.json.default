@@ -1,0 +1,14 @@
+{
+  "default": {
+    "n": "manifests/__manifest_cpremix_prod.00603.json",
+    "v": 603
+  },
+  "1.13.0": {
+    "n": "manifests/__manifest_cpremix_prod.00603.json",
+    "v": 603
+  },
+  "1.12.0": {
+    "n": "manifests/__manifest_cpremix_prod.00599.json",
+    "v": 599
+  }
+}
